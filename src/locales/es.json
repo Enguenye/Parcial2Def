@@ -1,0 +1,11 @@
+{
+	"Name": "Nombre",
+	"DirectedBy": "Dirigido por",
+	"Country": "Pais",
+	"Budget": "Presupuesto",
+	"Release": "Fecha de salida",
+    "Views": "Visualizaciones",
+    "Detalle": "Detalle",
+    "Million":"Millon",
+    "Millions":"Millones"
+}
